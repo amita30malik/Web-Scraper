@@ -1,0 +1,20 @@
+Documentation
+
+scrapping  program from website
+https://www.analyticsvidhya.com/blog/2021/10/scraping-flipkart-data-using-python-web-scraping-tutorial/
+
+flipkart website
+https://www.flipkart.com/search?q=phone&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off
+
+to send the dataframe to csv
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html
+
+To check if the folder and file already exists 
+https://stackoverflow.com/questions/8933237/how-do-i-check-if-directory-exists-in-python
+
+rupee symbol
+https://economictimes.indiatimes.com/keyboard-shortcut-to-the-rupee/articleshow/6767560.cms
+altgr (on right side) + 4
+
+Removing rupee symbol
+https://stackoverflow.com/questions/38516481/trying-to-remove-commas-and-dollars-signs-with-pandas-in-python
